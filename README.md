@@ -1,4 +1,4 @@
-Chatting Application 
+# Chatting Application 
 Explanation:
 This project consists of a simple chat application with a graphical user interface (GUI) implemented in Java using the Swing library. The chat application consists of a server and a client. The server and client communicate with each other over a network using sockets. The GUI is created using JFrame, JPanel, and other Swing components. There are two classes made in this project. Server and Client.
 
