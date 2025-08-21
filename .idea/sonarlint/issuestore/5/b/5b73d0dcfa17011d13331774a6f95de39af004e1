@@ -1,0 +1,11 @@
+
+e
+java:S1192K"JDefine a constant instead of duplicating this literal "SAN_SERIF" 4 times.(ê¸òùÿÿÿÿ
+f
+java:S2095£"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(îÌƒ©ûÿÿÿÿ
+>
+java:S2189¤""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ
+>
+java:S2189©""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ
+P
+java:S1161'":Add the "@Override" annotation above this method signature(¬û

@@ -1,0 +1,12 @@
+
+l
+java:S1192Q"JDefine a constant instead of duplicating this literal "SAN_SERIF" 4 times.(ê¸òùÿÿÿÿ8“å·‚×1
+g
+java:S2095±"DUse try-with-resources or close this "Socket" in a "finally" clause.(Âæ£Øùÿÿÿÿ8çå·‚×1
+E
+java:S2189µ""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8çå·‚×1
+A
+java:S3010Z"Remove this assignment of "a1".(·Ğ¦èıÿÿÿÿ8éå·‚×1
+W
+java:S1161-":Add the "@Override" annotation above this method signature(¬û8ëå·‚×1
+H	java:S106Ë"+Replace this use of System.out by a logger.(£ñÉ‡8öå·‚×1
